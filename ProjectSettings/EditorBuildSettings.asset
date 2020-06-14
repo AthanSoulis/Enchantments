@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainRoomTutorial.unity
+    guid: 7604233d9c5146d42974f7a6f33b5f75
+  - enabled: 1
+    path: Assets/Scenes/MainRoomOOX.unity
+    guid: 81802dc8af70c654cbb8c4ec54bcd185
+  - enabled: 1
+    path: Assets/Scenes/MainRoomOXO.unity
+    guid: 7b6b294ccbb98434bab1b95ac24bc0c4
+  - enabled: 1
+    path: Assets/Scenes/MainRoomOXX.unity
+    guid: b7d702f471ad3944ba766056b7dc6cc2
+  - enabled: 1
+    path: Assets/Scenes/MainRoomXOO.unity
+    guid: abc31499d9ccf8343865759f55483b39
+  - enabled: 1
+    path: Assets/Scenes/MainRoomXOX.unity
+    guid: 5ab4c3ffc9f1765418716f6e1ed0f94b
+  - enabled: 1
+    path: Assets/Scenes/MainRoomXXO.unity
+    guid: 361244d9d2e88ac40a7cb9cb0fb8a3a1
+  - enabled: 1
+    path: Assets/Scenes/MainRoomXXX.unity
+    guid: f9ddbf0f7d4fc4046bbd5140ad589ce5
+  - enabled: 1
+    path: Assets/Scenes/Room1_XOO.unity
+    guid: 75ef0d4b1de37614488b333e03c01efe
+  - enabled: 1
+    path: Assets/Scenes/Room1_XOX.unity
+    guid: 38b1ed19d5c47a64db6de0df5514f1f2
+  - enabled: 1
+    path: Assets/Scenes/Room1_XXO.unity
+    guid: ba682e68cdc99f040a79391b9bae179e
+  - enabled: 1
+    path: Assets/Scenes/Room1_XXX.unity
+    guid: 33c9b06d525ba2842ab9f0fc1515a87c
+  - enabled: 1
+    path: Assets/Scenes/RoomGOXO.unity
+    guid: c8846d6cc77bbc54084b376766999f30
+  - enabled: 1
+    path: Assets/Scenes/RoomGOXX.unity
+    guid: b5970fdefe24e6545a5b8b03017358e6
+  - enabled: 1
+    path: Assets/Scenes/RoomGXXO.unity
+    guid: 0ddce72cb84dbd14bbf8d61bfbcbcd44
+  - enabled: 1
+    path: Assets/Scenes/RoomGXXX.unity
+    guid: 619ebe24f83dd964f940a3eed1d192a0
+  - enabled: 1
+    path: Assets/Scenes/Room2_OOX.unity
+    guid: f81ef3df37d7eda42b092f5ed427b070
+  - enabled: 1
+    path: Assets/Scenes/Room2_OXX.unity
+    guid: 41673f3245c5218479660a30b8e25698
+  - enabled: 1
+    path: Assets/Scenes/Room2_XOX.unity
+    guid: 68ba7a6e4a3bf6e40a6a155d3c9796f1
+  - enabled: 1
+    path: Assets/Scenes/Room2_XXX.unity
+    guid: 08d77da81fef8d84d83d8d6c54a4747a
+  - enabled: 1
+    path: Assets/Scenes/MainRoomTutorial_withManager.unity
+    guid: 0a2a28ed00989904e80c1426743bb682
+  - enabled: 1
+    path: Assets/Scenes/MainRoom.unity
+    guid: 69890fe38c5d0d84c8744154ec948822
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: 8aacb8992be74244c9a7340a5fff0663
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 3a1b39cd26f26aa44bcf8b11c320ce2b
+  - enabled: 1
+    path: Assets/Scenes/RoomG.unity
+    guid: 00000000000000000000000000000000
